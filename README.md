@@ -1,18 +1,100 @@
 # 💫 About Me:
-👋 About Me<br><br>Hi! I’m Kartik Garg — a passionate and curious developer currently pursuing my B.Tech in Computer Science from Graphic Era University.<br><br>🔧 Tech Stack:<br>	•	Languages: JavaScript, C++, Java, HTML, CSS<br>	•	Backend: Node.js, Express.js<br>	•	Database: MongoDB<br>	•	Frontend: React (learning), Tailwind CSS<br>	•	Tools: Git, GitHub, Postman, VS Code<br><br>📚 Currently Learning:<br>	•	React and frontend fundamentals<br>	•	Backend architecture and system design<br><br>📌 Projects I’m Proud Of:<br>	•	Full backend authentication system with subscriptions, file uploads (Cloudinary), and playlist management<br><br>💡 What I Like:<br>	•	Solving DSA problems on LeetCode<br>	•	Exploring backend and DevOps workflows<br>	•	Understanding how things work under the hood<br><br>🎯 Goals:<br>	•	Become a solid backend developer<br>	•	Master system design and scalable architectures<br>	•	Contribute to open source<br><br>📫 How to reach me:<br>	•	LinkedIn: https://www.linkedin.com/in/kartik-garg-23a995282/<br>	•	Email: kartikamitgarg2005@gmail.com<br>
+👋 Hi! I’m Kartik Garg — a passionate and curious developer currently pursuing my B.Tech in Computer Science from Graphic Era University.
 
+---
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikamitgarg2005@gmail.com) 
+## 🧠 Tech Stack & Tools:
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Languages:**  
+JavaScript, C++, Java, HTML, CSS, TypeScript, Bash
 
+**Frontend:**  
+React (learning), Next.js, Tailwind CSS, Bootstrap, Vite, React Router, React Hook Form, React Query
 
-### ✍️ Dev Quote
+**Backend & Server:**  
+Node.js, Express.js, FastAPI, Nodemon, JWT
+
+**Databases:**  
+MongoDB, MySQL
+
+**DevOps & Cloud:**  
+Git, GitHub, Postman, Vercel, Render, Google Cloud, Cloudflare, AWS
+
+**AI/ML & Frameworks:**  
+LangChain, Google Gemini LLM, FAISS, Puppeteer
+
+**Testing & Utilities:**  
+Context API, Postman, dotenv, VS Code, Canva
+
+---
+
+## 🔍 What I’m Exploring Right Now:
+- 📚 Deepening my knowledge of React and fullstack architectures  
+- 🧠 Building AI-powered tools using RAG pipelines and vector databases  
+- 🤖 Experimenting with Puppeteer for intelligent web crawling  
+- 🧪 Working with LangChain and Google Gemini LLMs  
+- 🧰 Testing and optimizing backend routes and API flows  
+- 💡 Practicing Data Structures & Algorithms on LeetCode
+
+---
+
+## 📌 Projects I’m Proud Of:
+- **AI-Powered Website Chatbot:**  
+  A full-stack application that crawls any website, builds a persistent vector knowledge base using FAISS, and answers questions using Google's Gemini LLM via LangChain orchestration.
+
+- **Backend Authentication System:**  
+  With JWT auth, subscriptions, file uploads (Cloudinary), playlist creation, and role-based access control.
+
+---
+
+## 🎯 Goals:
+- Become a solid backend developer
+- Master system design and scalable architectures
+- Contribute to open source
+- Build impactful AI tools powered by real-world data
+
+---
+
+## 🌐 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-garg-23a995282/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kartikamitgarg2005@gmail.com)
+
+---
+
+## 💻 Tech Stack Badges:
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![LangChain](https://img.shields.io/badge/LangChain-1E90FF?style=for-the-badge&logo=langchain&logoColor=white) 
+![FAISS](https://img.shields.io/badge/FAISS-1E90FF?style=for-the-badge&logo=facebook&logoColor=white) 
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) 
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
+---
+
+## ✍️ Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=kartik0905&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with enhancements by ChatGPT -->
