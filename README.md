@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I’m Kartik Garg — a passionate and curious developer currently pursuing my B.Tech in Computer Science from Graphic Era University.
+Hi! I’m Kartik Garg — a passionate and curious developer currently pursuing my B.Tech in Computer Science from Graphic Era University.
 
 ---
 
