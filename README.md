@@ -3,7 +3,6 @@
 # 👨‍💻 Kartik Garg  
 ### Backend Developer • AI Explorer • Fullstack Learner  
 
-
 </div>
 
 ---
@@ -22,32 +21,31 @@ I specialize in backend development, love building AI-integrated systems, and ai
 
 ### 🖼️ Frontend  
 `React` • `Next.js` • `Tailwind CSS` • `Bootstrap` • `Vite`  
-•`Framer Motion` • `React Router` • `React Hook Form` • `React Query`  
-
+`Framer Motion` • `React Router` • `React Hook Form` • `React Query`
 
 ### 🛠 Backend & API  
 `Node.js` • `Express.js` • `FastAPI` • `JWT` • `Nodemon` • `bcrypt` • `CORS` • `dotenv`
 
 ### 🗃️ Databases  
-`MongoDB` • `MySQL` • `Mongoose`
+`MongoDB` • `MySQL` • `Mongoose` • `Astra DB`
 
 ### ☁️ DevOps & Platforms  
 `Git` • `GitHub` • `Postman` • `Vercel` • `Render` • `Google Cloud` • `Cloudflare` • `AWS`
 
 ### 🤖 AI/ML & Frameworks  
-`LangChain` • `FAISS` • `Cohere` • `Google Gemini LLM` • `Puppeteer`  
+`LangChain` • `FAISS` • `Cohere` • `Google Gemini LLM` • `Puppeteer` • `Hugging Face` • `Grok LLM`  
 `Retrieval-Augmented Generation (RAG)` Pipelines
 
 ---
 
 ## 🔍 Currently Exploring
 
-- 🌐 Fullstack Development with **Next.js**, **Auth**, and UI frameworks  
-- 🤖 Building powerful **RAG-based AI systems** using vector stores and LLMs  
-- 🧠 Integrating **Cohere**, **Gemini**, and **LangChain** for smart Q&A agents  
-- ⚙️ Web crawling automation with **Puppeteer**  
-- 📦 API testing, caching, and secure backend routes  
-- 💡 LeetCode problem-solving for better DSA
+- 🌐 Advanced Fullstack Development with Next.js, authentication, and scalable UI systems
+- 🤖 RAG-powered AI solutions integrating LangChain, Cohere, Gemini, Grok, and Hugging Face
+-	📂 Codebase & Data Indexing with web crawlers, repo analyzers, and vector stores (Astra DB, FAISS, Pinecone)
+- ⚡ Performance-optimized backends with caching, load balancing, and secure API design
+-	🛠 AI DevTools for real-time Q&A, documentation search, and smart automation
+-	🎯 Continuous DSA improvement via LeetCode problem-solving
 
 ---
 
@@ -61,6 +59,19 @@ A fullstack RAG application that crawls any website, builds a **vectorized knowl
 - Contextual Q&A powered by custom embeddings  
 - Vector search pipeline using FAISS & LangChain  
 - Pinecone / local FAISS vector store supported
+
+---
+
+### 📂 GitHub Repo Explorer Chatbot *(New)*  
+An AI-powered tool that analyzes any **public GitHub repository** and allows you to query the codebase conversationally.
+
+- Crawls and indexes repo files with intelligent parsing  
+- Uses **Cohere embeddings** + **LangChain** for semantic search  
+- Answers “Where is this code?” or “How is X implemented?” type questions  
+- Avoids re-indexing if repo data already exists  
+- Built with **Node.js**, **Puppeteer**, **Pinecone**, and **FAISS**
+
+---
 
 ### 🔐 Backend Authentication System  
 A robust Node.js backend with:
@@ -107,6 +118,7 @@ A robust Node.js backend with:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Astra DB](https://img.shields.io/badge/AstraDB-2D3748?style=for-the-badge&logo=datastax&logoColor=white)
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/ShadCN-ui-%23121011.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
@@ -116,6 +128,8 @@ A robust Node.js backend with:
 ![FAISS](https://img.shields.io/badge/FAISS-1E90FF?style=for-the-badge&logo=facebook&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere-3b82f6?style=for-the-badge&logo=cohere&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-FF5733?style=for-the-badge&logo=x&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-VectorSearch-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 
