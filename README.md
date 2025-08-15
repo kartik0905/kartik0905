@@ -62,14 +62,14 @@ A fullstack RAG application that crawls any website, builds a **vectorized knowl
 
 ---
 
-### 📂 GitHub Repo Explorer Chatbot *(New)*  
+### 📂 Chatbot-Companion *(New)*  
 An AI-powered tool that analyzes any **public GitHub repository** and allows you to query the codebase conversationally.
 
-- Crawls and indexes repo files with intelligent parsing  
-- Uses **Cohere embeddings** + **LangChain** for semantic search  
-- Answers “Where is this code?” or “How is X implemented?” type questions  
-- Avoids re-indexing if repo data already exists  
-- Built with **Node.js**, **Puppeteer**, **Pinecone**, and **FAISS**
+- Crawls and indexes repo files with intelligent parsing
+- Uses Hugging Face embeddings stored in Astra DB vector store
+- Answers questions using Grok LLM for accurate, conversational responses
+- Semantic search pipeline built with LLM
+- Built with **Node.js**, **Hugging-Face**, **Astra-DB**, and **Grok LLM**
 
 ---
 
