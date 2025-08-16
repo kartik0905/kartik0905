@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Kartik Garg  
-### Fullstack Developer • AI Explorer 
+### Fullstack Developer • RAG & LLM Applications
 
 </div>
 
