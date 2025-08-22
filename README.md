@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Kartik Garg  
-### Fullstack Developer • RAG & LLM Applications
+### Fullstack Web Developer • RAG & LLM Applications
 
 </div>
 
