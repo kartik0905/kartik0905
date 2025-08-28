@@ -17,14 +17,15 @@ I specialize in backend development, love building AI-integrated systems, and ai
 ## 🧠 Tech Stack & Tools
 
 ### 👨‍💻 Languages  
-`JavaScript` • `TypeScript` • `C++` • `Java` • `HTML` • `CSS` • `Bash`
+`JavaScript` • `TypeScript` • `C++` • `Java` • `HTML` • `CSS` • `Bash` • `Python`
 
 ### 🖼️ Frontend  
 `React` • `Next.js` • `Tailwind CSS` • `Bootstrap` • `Vite`  
 `Framer Motion` • `React Router` • `React Hook Form` • `React Query`
 
 ### 🛠 Backend & API  
-`Node.js` • `Express.js` • `FastAPI` • `JWT` • `Nodemon` • `bcrypt` • `CORS` • `dotenv`
+`Node.js` • `Express.js` • `FastAPI` • `JWT` • `Nodemon` • `bcrypt` • `CORS` • `dotenv`  
+`MCP Server` • `Google Calendar API`
 
 ### 🗃️ Databases  
 `MongoDB` • `MySQL` • `Mongoose` • `Astra DB`
@@ -40,12 +41,12 @@ I specialize in backend development, love building AI-integrated systems, and ai
 
 ## 🔍 Currently Exploring
 
-- 🌐 Advanced Fullstack Development with Next.js, authentication, and scalable UI systems
-- 🤖 RAG-powered AI solutions integrating LangChain, Cohere, Gemini, Grok, and Hugging Face
--	📂 Codebase & Data Indexing with web crawlers, repo analyzers, and vector stores (Astra DB, FAISS, Pinecone)
-- ⚡ Performance-optimized backends with caching, load balancing, and secure API design
--	🛠 AI DevTools for real-time Q&A, documentation search, and smart automation
--	🎯 Continuous DSA improvement via LeetCode problem-solving
+- 🌐 Advanced Fullstack Development with Next.js, authentication, and scalable UI systems  
+- 🤖 RAG-powered AI solutions integrating LangChain, Cohere, Gemini, Grok, and Hugging Face  
+- 📂 Codebase & Data Indexing with web crawlers, repo analyzers, and vector stores (Astra DB, FAISS, Pinecone)  
+- ⚡ Performance-optimized backends with caching, load balancing, and secure API design  
+- 🛠 AI DevTools for real-time Q&A, documentation search, and smart automation  
+- 🎯 Continuous DSA improvement via LeetCode problem-solving  
 
 ---
 
@@ -58,18 +59,17 @@ A fullstack RAG application that crawls any website, builds a **vectorized knowl
 - Namespace detection to avoid re-crawling  
 - Contextual Q&A powered by custom embeddings  
 - Vector search pipeline using FAISS & LangChain  
-- Pinecone / local FAISS vector store supported
+- Pinecone / local FAISS vector store supported  
 
 ---
 
-### 📂 Chatbot-Companion *(New)*  
-An AI-powered tool that analyzes any **public GitHub repository** and allows you to query the codebase conversationally.
+### 📅 MCP Server – AI Calendar Scheduler *(New)*  
+An **MCP Server integration** that connects with **Google Calendar API** and automates scheduling tasks directly through email.
 
-- Crawls and indexes repo files with intelligent parsing
-- Uses Hugging Face embeddings stored in Astra DB vector store
-- Answers questions using Grok LLM for accurate, conversational responses
-- Semantic search pipeline built with LLM
-- Built with **Node.js**, **Hugging-Face**, **Astra-DB**, and **Grok LLM**
+- Built with **Python**  
+- Uses **MCP Server** to handle scheduling and automation  
+- Secure authentication with **Google Calendar API**  
+- Personalized event creation and reminders  
 
 ---
 
@@ -81,7 +81,7 @@ A robust Node.js backend with:
 - Cloudinary file uploads  
 - Playlist management  
 - Subscription flows  
-- Thoroughly tested with Postman
+- Thoroughly tested with Postman  
 
 ---
 
@@ -91,7 +91,7 @@ A robust Node.js backend with:
 - 💬 Contribute to open-source AI and DevTools  
 - 📊 Build impactful RAG-powered SaaS apps  
 - 💡 Work on real-time collaborative systems  
-- 🎓 Crack top product-based company interviews
+- 🎓 Crack top product-based company interviews  
 
 ---
 
@@ -108,6 +108,7 @@ A robust Node.js backend with:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -132,6 +133,8 @@ A robust Node.js backend with:
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-VectorSearch-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![MCP Server](https://img.shields.io/badge/MCP-Server-orange?style=for-the-badge&logo=serverless&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google-Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
