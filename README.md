@@ -148,6 +148,10 @@ A robust Node.js backend with:
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=kartikgarg-dev&label=Profile%20views&color=0e75b6&style=flat)
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=kartikgarg-dev&label=%20Profile%20Views&color=blueviolet&style=for-the-badge)
+
+</div>
 
 <!-- Proudly built by Kartik Garg with ❤️ + ChatGPT enhancements -->
