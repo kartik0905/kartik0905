@@ -1,97 +1,65 @@
 <div align="center">
 
-# 👨‍💻 Kartik Garg  
-### Fullstack Web Developer • RAG & LLM Applications
+# 🤖 Kartik Garg  
+### GenAI Systems Engineer • Multi-Agent & RAG Architect
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-Hi! I’m **Kartik Garg**, a passionate developer currently pursuing my **B.Tech in Computer Science** from **Graphic Era University**.  
-I specialize in backend development, love building AI-integrated systems, and aim to create scalable, real-world applications.
+Hi! I’m **Kartik Garg**, a passionate **AI & Fullstack Developer** pursuing **B.Tech in Computer Science** at **Graphic Era University**.  
+I specialize in building **AI-driven systems** powered by **LangChain, LangGraph, and CrewAI**, with expertise in backend engineering, RAG pipelines, and intelligent automation.
+
+I love transforming abstract ideas into **scalable, production-ready AI products** that think, reason, and act.
 
 ---
 
 ## 🧠 Tech Stack & Tools
 
-### 👨‍💻 Languages  
-`JavaScript` • `TypeScript` • `C++` • `Java` • `HTML` • `CSS` • `Bash` • `Python`
+### 💻 Languages  
+`JavaScript` • `TypeScript` • `C++` • `Java` • `Python` • `HTML` • `CSS` • `Bash`
 
-### 🖼️ Frontend  
-`React` • `Next.js` • `Tailwind CSS` • `Bootstrap` • `Vite`  
-`Framer Motion` • `React Router` • `React Hook Form` • `React Query`
+### 🎨 Frontend  
+`React` • `Next.js` • `Tailwind CSS` • `Bootstrap` • `Vite` • `Framer Motion`  
+`React Router` • `React Hook Form` • `React Query`
 
-### 🛠 Backend & API  
-`Node.js` • `Express.js` • `FastAPI` • `JWT` • `Nodemon` • `bcrypt` • `CORS` • `dotenv`  
-`MCP Server` • `Google Calendar API`
+### ⚙️ Backend & APIs  
+`Node.js` • `Express.js` • `FastAPI` • `JWT` • `bcrypt` • `CORS` • `dotenv`  
+`MCP Server` • `Google Calendar API` • `LangServe`
 
-### 🗃️ Databases  
-`MongoDB` • `MySQL` • `Mongoose` • `Astra DB`
+### 🗄 Databases  
+`MongoDB` • `MySQL` • `Mongoose` • `Astra DB` • `Pinecone` • `FAISS`
 
 ### ☁️ DevOps & Platforms  
-`Git` • `GitHub` • `Postman` • `Vercel` • `Render` • `Google Cloud` • `Cloudflare` • `AWS`
+`Docker` • `Git` • `GitHub` • `Postman` • `Render` • `Vercel` • `Google Cloud` • `AWS` • `Cloudflare`
 
-### 🤖 AI/ML & Frameworks  
-`LangChain` • `FAISS` • `Cohere` • `Google Gemini LLM` • `Puppeteer` • `Hugging Face` • `Grok LLM`  
-`Retrieval-Augmented Generation (RAG)` Pipelines
+### 🧩 AI / GenAI Frameworks  
+`LangChain` • `LangGraph` • `LangSmith` • `CrewAI` • `Cohere` • `Gemini` • `Grok`  
+`Hugging Face` • `Retrieval-Augmented Generation (RAG)` • `MCP Servers` • `Puppeteer`
 
 ---
 
 ## 🔍 Currently Exploring
 
-- 🌐 Advanced Fullstack Development with Next.js, authentication, and scalable UI systems  
-- 🤖 RAG-powered AI solutions integrating LangChain, Cohere, Gemini, Grok, and Hugging Face  
-- 📂 Codebase & Data Indexing with web crawlers, repo analyzers, and vector stores (Astra DB, FAISS, Pinecone)  
-- ⚡ Performance-optimized backends with caching, load balancing, and secure API design  
-- 🛠 AI DevTools for real-time Q&A, documentation search, and smart automation  
-- 🎯 Continuous DSA improvement via LeetCode problem-solving  
-
----
-
-## 💼 Projects I’m Proud Of
-
-### 🤖 AI-Powered Website Chatbot  
-A fullstack RAG application that crawls any website, builds a **vectorized knowledge base** using **FAISS**, and answers user queries using **LangChain + Cohere + Gemini LLM**.
-
-- Puppeteer-based intelligent crawling  
-- Namespace detection to avoid re-crawling  
-- Contextual Q&A powered by custom embeddings  
-- Vector search pipeline using FAISS & LangChain  
-- Pinecone / local FAISS vector store supported  
-
----
-
-### 📅 MCP Server – AI Calendar Scheduler *(New)*  
-An **MCP Server integration** that connects with **Google Calendar API** and automates scheduling tasks directly through email.
-
-- Built with **Python**  
-- Uses **MCP Server** to handle scheduling and automation  
-- Secure authentication with **Google Calendar API**  
-- Personalized event creation and reminders  
-
----
-
-### 🔐 Backend Authentication System  
-A robust Node.js backend with:
-
-- JWT authentication  
-- Role-based access  
-- Cloudinary file uploads  
-- Playlist management  
-- Subscription flows  
-- Thoroughly tested with Postman  
+- 🧠 Multi-Agent Systems using **CrewAI** and **LangGraph**  
+- 🧰 Tool-Augmented LLMs with function calling & external APIs  
+- 🗃 RAG pipelines with **Pinecone**, **FAISS**, and **Cohere embeddings**  
+- ☁️ Deploying AI microservices with **Docker**, **LangServe**, and **Cloud Platforms**  
+- 🔒 Robust backend design — caching, scaling, secure auth, and observability  
+- 📈 Model serving with **Ollama / vLLM** for local LLM inference  
+- 💬 Building developer tools for real-time Q&A and documentation search  
 
 ---
 
 ## 🎯 2025 Goals
 
-- 🔧 Master backend and scalable REST/GraphQL architectures  
-- 💬 Contribute to open-source AI and DevTools  
-- 📊 Build impactful RAG-powered SaaS apps  
-- 💡 Work on real-time collaborative systems  
-- 🎓 Crack top product-based company interviews  
+- 🧩 Master advanced multi-agent orchestration using CrewAI & LangGraph  
+- ☁️ Deploy fully containerized AI systems using Docker & Kubernetes  
+- 🤝 Contribute to **open-source GenAI tools and frameworks**  
+- 🧠 Build domain-specific AI assistants using RAG + LLM orchestration  
+- 💡 Land an **AI Engineer / GenAI Systems Engineer** internship at a top-tier company  
 
 ---
 
@@ -102,7 +70,7 @@ A robust Node.js backend with:
 
 ---
 
-## 🛠 Tech Stack Badges
+## 🧰 Tech Stack Badges
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -112,33 +80,34 @@ A robust Node.js backend with:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-UI-%23121011.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangServe](https://img.shields.io/badge/LangServe-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Astra DB](https://img.shields.io/badge/AstraDB-2D3748?style=for-the-badge&logo=datastax&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-ui-%23121011.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-00B8D9?style=for-the-badge&logo=pinecone&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge&logo=facebook&logoColor=white)
 
 ![LangChain](https://img.shields.io/badge/LangChain-1E90FF?style=for-the-badge&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-1E90FF?style=for-the-badge&logo=facebook&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge&logo=graph&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-181717?style=for-the-badge&logo=openai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge&logo=crewai&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere-3b82f6?style=for-the-badge&logo=cohere&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-FF5733?style=for-the-badge&logo=x&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-VectorSearch-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![MCP Server](https://img.shields.io/badge/MCP-Server-orange?style=for-the-badge&logo=serverless&logoColor=white)
-![Google Calendar](https://img.shields.io/badge/Google-Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -154,4 +123,4 @@ A robust Node.js backend with:
 
 </div>
 
-<!-- Proudly built by Kartik Garg with ❤️ + ChatGPT enhancements -->
+<!-- Crafted by Kartik Garg • Enhanced with GPT-5 -->
