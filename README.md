@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Kartik Garg  
+# Kartik Garg  
 ### GenAI Systems Engineer • Multi-Agent & RAG Architect
 
 </div>
