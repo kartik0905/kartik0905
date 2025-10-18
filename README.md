@@ -41,28 +41,6 @@ I love transforming abstract ideas into **scalable, production-ready AI products
 
 ---
 
-## 🔍 Currently Exploring
-
-- 🧠 Multi-Agent Systems using **CrewAI** and **LangGraph**  
-- 🧰 Tool-Augmented LLMs with function calling & external APIs  
-- 🗃 RAG pipelines with **Pinecone**, **FAISS**, and **Cohere embeddings**  
-- ☁️ Deploying AI microservices with **Docker**, **LangServe**, and **Cloud Platforms**  
-- 🔒 Robust backend design — caching, scaling, secure auth, and observability  
-- 📈 Model serving with **Ollama / vLLM** for local LLM inference  
-- 💬 Building developer tools for real-time Q&A and documentation search  
-
----
-
-## 🎯 2025 Goals
-
-- 🧩 Master advanced multi-agent orchestration using CrewAI & LangGraph  
-- ☁️ Deploy fully containerized AI systems using Docker & Kubernetes  
-- 🤝 Contribute to **open-source GenAI tools and frameworks**  
-- 🧠 Build domain-specific AI assistants using RAG + LLM orchestration  
-- 💡 Land an **AI Engineer / GenAI Systems Engineer** internship at a top-tier company  
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-garg-23a995282/)  
