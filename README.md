@@ -22,7 +22,7 @@ I love transforming abstract ideas into **scalable, production-ready AI products
 `JavaScript` • `TypeScript` • `C++` • `Java` • `Python` • `HTML` • `CSS` • `Bash`
 
 ### 🎨 Frontend  
-`React` • `Next.js` • `Tailwind CSS` • `Bootstrap` • `Vite` • `Framer Motion`  
+`React` • `Next.js` • `Tailwind CSS` • `Gradio(Python)` • `Streamlit`• `Bootstrap` • `Vite` • `Framer Motion`  
 `React Router` • `React Hook Form` • `React Query`
 
 ### ⚙️ Backend & APIs  
@@ -58,6 +58,8 @@ I love transforming abstract ideas into **scalable, production-ready AI products
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+![Gradio](https://img.shields.io/badge/Gradio-1B1F23?style=for-the-badge&logo=gradio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
