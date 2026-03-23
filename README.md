@@ -7,6 +7,8 @@
   </p>
 
   <p>
+    <a href="https://kartik0905.github.io/kartik-portfolio/" style="text-decoration: none; font-weight: bold;">Website</a>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kartik-garg-23a995282" style="text-decoration: none; font-weight: bold;">LinkedIn</a>
     &nbsp;&nbsp;•&nbsp;&nbsp;
     <a href="mailto:kartikamitgarg2005@gmail.com" style="text-decoration: none; font-weight: bold;">Email</a>
