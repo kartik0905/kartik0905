@@ -36,7 +36,7 @@ I enjoy designing systems where **reasoning, retrieval, and action** come togeth
 
    </td>
     <td width="40%" valign="center" align="center" style="border: none;">
-     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR5ZzV2bWk5NnZzZHFpYXRyY2M0Z3I4Z3h1bG1hd2Z1Y3Z0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"
+     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2R1bnd4cjR4dGw3N3NxMzdmYnZrNnRvbmw4NDlwam1pOG53ZTh3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif"
            width="100%" alt="AI Coding" style="border-radius: 8px;" />
     </td>
   </tr>
